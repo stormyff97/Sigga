@@ -1,3 +1,7 @@
+### This fork adds a support for absolute address 32bit wildcards. ###
+####################################################################
+
+
 # Sigga - sigmaker for Ghidra
 *The name "Sigga" is a mix of the german word "Digga" (roughly translates to "brother"), and "Signature"*
 
